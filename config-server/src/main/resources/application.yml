@@ -6,10 +6,10 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
+          uri: https://github.com/WangShanJava/springcloudconfig/
           search-paths: respo
-          username:
-          password:
+          username: 386851725@qq.com
+          password: Ming2311066389
 server:
   port: 8888
 eureka:
